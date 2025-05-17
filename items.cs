@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Task_Seession3_
 {
-    public class items
+    public class itemsss
     {
         public string Title { get; set; }
         public string Description { get; set; }
